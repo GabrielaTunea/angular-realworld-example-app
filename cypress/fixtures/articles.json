@@ -1,0 +1,39 @@
+{
+  "articles": [
+    {
+      "slug": "MMH61pDin-W5Nm-1850",
+      "title": "Tiltle 1",
+      "description": "Random description 2",
+      "body": "vbcsLn3MVqqUn87mgAL0ZdwznTn95 VD50gYb yB8PUOm5PX4Q5122snRT2 AT87c07BqPRiieX3rQNNmv5Hrfhlb7utd4P0w9GPxXpgJ1 Aj8j71Si7p2e6sJh5SFFl8xuMib",
+      "tagList": ["bOEBY8zzVq"],
+      "createdAt": "2023-08-17T01:35:03.257Z",
+      "updatedAt": "2023-08-17T01:35:03.257Z",
+      "favorited": false,
+      "favoritesCount": 1,
+      "author": {
+        "username": "CyTestUser",
+        "bio": "2222",
+        "image": "https://i.stack.imgur.com/34AD2.jpg",
+        "following": false
+      }
+    },
+    {
+      "slug": "YPd1b0T7wynN4wk-1850",
+      "title": "Title 2",
+      "description": "tn KTXFzt4",
+      "body": "rCLzCxQD4Wo85lCtXGhP1rmOhdtdyenm5tl7NAblEfIkQemU p yB1cx3gVhOcK8rMcjhW6bnpMH9u1Pt6fXjNV7OfySsUH2vZ3cYPmFiGs8eImnP8IXzyg7o wGaohzQq9uleuifdGPJQGArzwQ 0qE1mQZTsSEQuCjqK",
+      "tagList": ["rk8m55U9hK"],
+      "createdAt": "2023-08-17T01:34:58.772Z",
+      "updatedAt": "2023-08-17T01:34:58.772Z",
+      "favorited": false,
+      "favoritesCount": 5,
+      "author": {
+        "username": "CyTestUser",
+        "bio": "2222",
+        "image": "https://i.stack.imgur.com/34AD2.jpg",
+        "following": false
+      }
+    }
+  ],
+  "articlesCount": 2
+}
